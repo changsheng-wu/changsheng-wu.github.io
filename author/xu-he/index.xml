@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xu He | Changsheng Wu Research Group</title>
+    <link>/author/xu-he/</link>
+      <atom:link href="/author/xu-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xu He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Xu He</title>
+      <link>/author/xu-he/</link>
+    </image>
+    
+    <item>
+      <title>Concurrent Harvesting of Ambient Energy by Hybrid Nanogenerators for Wearable Self-Powered Systems and Active Remote Sensing</title>
+      <link>/publication/wos-000431723400051/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000431723400051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Self-Powered Dynamic Displacement Monitoring System Based on Triboelectric Accelerometer</title>
+      <link>/publication/wos-000414918700017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000414918700017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Highly Stretchable Fiber-Based Triboelectric Nanogenerator for Self-Powered Wearable Electronics</title>
+      <link>/publication/wos-000394671200015/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000394671200015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Packaged Blue Energy Harvester by Hybridizing a Rolling Triboelectric Nanogenerator and an Electromagnetic Generator</title>
+      <link>/publication/wos-000391079700082/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000391079700082/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

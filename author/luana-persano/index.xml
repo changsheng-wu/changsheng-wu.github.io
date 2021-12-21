@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luana Persano | Changsheng Wu Research Group</title>
+    <link>/author/luana-persano/</link>
+      <atom:link href="/author/luana-persano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luana Persano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Luana Persano</title>
+      <link>/author/luana-persano/</link>
+    </image>
+    
+    <item>
+      <title>Polymer nanogenerators: Opportunities and challenges for large-scale applications</title>
+      <link>/publication/wos-000428415800017/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000428415800017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

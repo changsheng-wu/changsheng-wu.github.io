@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gang Cheng | Changsheng Wu Research Group</title>
+    <link>/author/gang-cheng/</link>
+      <atom:link href="/author/gang-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gang Cheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Gang Cheng</title>
+      <link>/author/gang-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Concurrent Harvesting of Ambient Energy by Hybrid Nanogenerators for Wearable Self-Powered Systems and Active Remote Sensing</title>
+      <link>/publication/wos-000431723400051/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000431723400051/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

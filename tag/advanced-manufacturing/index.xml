@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>advanced manufacturing | Changsheng Wu Research Group</title>
+    <link>/tag/advanced-manufacturing/</link>
+      <atom:link href="/tag/advanced-manufacturing/index.xml" rel="self" type="application/rss+xml" />
+    <description>advanced manufacturing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>advanced manufacturing</title>
+      <link>/tag/advanced-manufacturing/</link>
+    </image>
+    
+    <item>
+      <title>Electrohydrodynamic Jet Printing Driven by a Triboelectric Nanogenerator</title>
+      <link>/publication/wos-000476566300020/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000476566300020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Prediction of Paravalvular Leak in Transcatheter Aortic Valve Replacement Based on Tissue-Mimicking 3D Printing</title>
+      <link>/publication/wos-000404543000001/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000404543000001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioprinting: an assessment based on manufacturing readiness levels</title>
+      <link>/publication/wos-000395153900006/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000395153900006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-material 3D printed metamaterials with tunable mechanical properties for patient-specific tissue-mimicking phantoms</title>
+      <link>/publication/wos-000435752000004/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000435752000004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A facile method for integrating direct-write devices into three-dimensional printed parts</title>
+      <link>/publication/wos-000354869500009/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000354869500009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

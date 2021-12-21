@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haiwen Luan | Changsheng Wu Research Group</title>
+    <link>/author/haiwen-luan/</link>
+      <atom:link href="/author/haiwen-luan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haiwen Luan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Haiwen Luan</title>
+      <link>/author/haiwen-luan/</link>
+    </image>
+    
+    <item>
+      <title>Complex 3D microfluidic architectures formed by mechanically guided compressive buckling</title>
+      <link>/publication/wos-000711845800034/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000711845800034/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wireless Near-Infrared Spectroscopy Device for Flap Monitoring: Proof of Concept in a Porcine Musculocutaneous Flap Model</title>
+      <link>/publication/wos-000685474400002/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000685474400002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential cardiopulmonary monitoring system for artifact-canceled physiological tracking of athletes, workers, and COVID-19 patients</title>
+      <link>/publication/wos-000652258100035/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000652258100035/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

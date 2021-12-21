@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Xi | Changsheng Wu Research Group</title>
+    <link>/author/yi-xi/</link>
+      <atom:link href="/author/yi-xi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi Xi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Yi Xi</title>
+      <link>/author/yi-xi/</link>
+    </image>
+    
+    <item>
+      <title>A Highly Stretchable Fiber-Based Triboelectric Nanogenerator for Self-Powered Wearable Electronics</title>
+      <link>/publication/wos-000394671200015/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000394671200015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Powered Electrochemical Synthesis of Polypyrrole from the Pulsed Output of a Triboelectric Nanogenerator as a Sustainable Energy System</title>
+      <link>/publication/wos-000377595600018/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000377595600018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

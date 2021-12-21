@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiyi Wu | Changsheng Wu Research Group</title>
+    <link>/author/zhiyi-wu/</link>
+      <atom:link href="/author/zhiyi-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhiyi Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Zhiyi Wu</title>
+      <link>/author/zhiyi-wu/</link>
+    </image>
+    
+    <item>
+      <title>Ferroelectricity-Enhanced Piezo-Phototronic Effect in 2D V-Doped ZnO Nanosheets</title>
+      <link>/publication/wos-000482048100012/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000482048100012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TriboPump: A Low-Cost, Hand-Powered Water Disinfection System</title>
+      <link>/publication/wos-000477779600013/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000477779600013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrohydrodynamic Jet Printing Driven by a Triboelectric Nanogenerator</title>
+      <link>/publication/wos-000476566300020/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000476566300020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rational Structure Optimized Hybrid Nanogenerator for Highly Efficient Water Wave Energy Harvesting</title>
+      <link>/publication/wos-000459313500003/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000459313500003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Powered Multifunctional Motion Sensor a, Enabled by Magnetic-Regulated Triboelectric Nanogenerator</title>
+      <link>/publication/wos-000436910200068/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000436910200068/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

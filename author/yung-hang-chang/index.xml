@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yung-Hang Chang | Changsheng Wu Research Group</title>
+    <link>/author/yung-hang-chang/</link>
+      <atom:link href="/author/yung-hang-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yung-Hang Chang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Yung-Hang Chang</title>
+      <link>/author/yung-hang-chang/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Prediction of Paravalvular Leak in Transcatheter Aortic Valve Replacement Based on Tissue-Mimicking 3D Printing</title>
+      <link>/publication/wos-000404543000001/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000404543000001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A facile method for integrating direct-write devices into three-dimensional printed parts</title>
+      <link>/publication/wos-000354869500009/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000354869500009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

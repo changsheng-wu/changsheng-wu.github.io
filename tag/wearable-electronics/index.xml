@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wearable electronics | Changsheng Wu Research Group</title>
+    <link>/tag/wearable-electronics/</link>
+      <atom:link href="/tag/wearable-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <description>wearable electronics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>wearable electronics</title>
+      <link>/tag/wearable-electronics/</link>
+    </image>
+    
+    <item>
+      <title>Bitter Flavored, Soft Composites for Wearables Designed to Reduce Risks of Choking in Infants</title>
+      <link>/publication/wos-000682861600001/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000682861600001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated, multiparametric monitoring of respiratory biomarkers and vital signs in clinical and home settings for COVID-19 patients</title>
+      <link>/publication/wos-000651331900011/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000651331900011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential cardiopulmonary monitoring system for artifact-canceled physiological tracking of athletes, workers, and COVID-19 patients</title>
+      <link>/publication/wos-000652258100035/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000652258100035/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wireless, skin-interfaced biosensor for cerebral hemodynamic monitoring in pediatric care</title>
+      <link>/publication/wos-000600608300022/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000600608300022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MXene electrochemical microsupercapacitor integrated with triboelectric nanogenerator as a wearable self-charging power unit</title>
+      <link>/publication/wos-000425396400029/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000425396400029/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Highly Stretchable Fiber-Based Triboelectric Nanogenerator for Self-Powered Wearable Electronics</title>
+      <link>/publication/wos-000394671200015/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000394671200015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-in-One Shape-Adaptive Self-Charging Power Package for Wearable Electronics</title>
+      <link>/publication/wos-000388913100091/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000388913100091/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

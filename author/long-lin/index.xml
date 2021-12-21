@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Long Lin | Changsheng Wu Research Group</title>
+    <link>/author/long-lin/</link>
+      <atom:link href="/author/long-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Long Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Long Lin</title>
+      <link>/author/long-lin/</link>
+    </image>
+    
+    <item>
+      <title>A spring-based resonance coupling for hugely enhancing the performance of triboelectric nanogenerators for harvesting low-frequency vibration energy</title>
+      <link>/publication/wos-000397003700035/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000397003700035/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Packaged Blue Energy Harvester by Hybridizing a Rolling Triboelectric Nanogenerator and an Electromagnetic Generator</title>
+      <link>/publication/wos-000391079700082/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000391079700082/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Powered Electrochemical Synthesis of Polypyrrole from the Pulsed Output of a Triboelectric Nanogenerator as a Sustainable Energy System</title>
+      <link>/publication/wos-000377595600018/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000377595600018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper-Based Triboelectric Nanogenerators Made of Stretchable Interlocking Kirigami Patterns</title>
+      <link>/publication/wos-000375245000088/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000375245000088/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

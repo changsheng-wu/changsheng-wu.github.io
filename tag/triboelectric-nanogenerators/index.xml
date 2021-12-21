@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>triboelectric nanogenerators | Changsheng Wu Research Group</title>
+    <link>/tag/triboelectric-nanogenerators/</link>
+      <atom:link href="/tag/triboelectric-nanogenerators/index.xml" rel="self" type="application/rss+xml" />
+    <description>triboelectric nanogenerators</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>triboelectric nanogenerators</title>
+      <link>/tag/triboelectric-nanogenerators/</link>
+    </image>
+    
+    <item>
+      <title>TriboPump: A Low-Cost, Hand-Powered Water Disinfection System</title>
+      <link>/publication/wos-000477779600013/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000477779600013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximized Effective Energy Output of Contact-SeparationTriggered Triboelectric Nanogenerators as Limited by Air Breakdown</title>
+      <link>/publication/wos-000404019400005/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000404019400005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

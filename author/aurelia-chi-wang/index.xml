@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurelia Chi Wang | Changsheng Wu Research Group</title>
+    <link>/author/aurelia-chi-wang/</link>
+      <atom:link href="/author/aurelia-chi-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aurelia Chi Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Aurelia Chi Wang</title>
+      <link>/author/aurelia-chi-wang/</link>
+    </image>
+    
+    <item>
+      <title>Contact-Electrification between Two Identical Materials: Curvature Effect</title>
+      <link>/publication/wos-000460199400102/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000460199400102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polymer nanogenerators: Opportunities and challenges for large-scale applications</title>
+      <link>/publication/wos-000428415800017/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000428415800017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MXene electrochemical microsupercapacitor integrated with triboelectric nanogenerator as a wearable self-charging power unit</title>
+      <link>/publication/wos-000425396400029/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000425396400029/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

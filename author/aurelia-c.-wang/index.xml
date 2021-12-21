@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurelia C. Wang | Changsheng Wu Research Group</title>
+    <link>/author/aurelia-c.-wang/</link>
+      <atom:link href="/author/aurelia-c.-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aurelia C. Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Aurelia C. Wang</title>
+      <link>/author/aurelia-c.-wang/</link>
+    </image>
+    
+    <item>
+      <title>Human-Machine Interfacing Enabled by Triboelectric Nanogenerators and Tribotronics</title>
+      <link>/publication/wos-000455117500009/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000455117500009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triboelectric Nanogenerator: A Foundation of the Energy for the New Era</title>
+      <link>/publication/wos-000454769900003/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000454769900003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-powered wireless optical transmission of mechanical agitation signals</title>
+      <link>/publication/wos-000430057000060/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000430057000060/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keystroke dynamics enabled authentication and identification using triboelectric nanogenerator array</title>
+      <link>/publication/wos-000430654600015/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000430654600015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

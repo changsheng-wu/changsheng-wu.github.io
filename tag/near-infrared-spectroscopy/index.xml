@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>near-infrared spectroscopy | Changsheng Wu Research Group</title>
+    <link>/tag/near-infrared-spectroscopy/</link>
+      <atom:link href="/tag/near-infrared-spectroscopy/index.xml" rel="self" type="application/rss+xml" />
+    <description>near-infrared spectroscopy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>near-infrared spectroscopy</title>
+      <link>/tag/near-infrared-spectroscopy/</link>
+    </image>
+    
+    <item>
+      <title>Intramuscular Near-Infrared Spectroscopy for Muscle Flap Monitoring in a Porcine Model</title>
+      <link>/publication/wos-000697821900001/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000697821900001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wireless Near-Infrared Spectroscopy Device for Flap Monitoring: Proof of Concept in a Porcine Musculocutaneous Flap Model</title>
+      <link>/publication/wos-000685474400002/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000685474400002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wireless, skin-interfaced biosensor for cerebral hemodynamic monitoring in pediatric care</title>
+      <link>/publication/wos-000600608300022/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000600608300022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

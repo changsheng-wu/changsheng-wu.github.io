@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>piezoelectric nanogenerator | Changsheng Wu Research Group</title>
+    <link>/tag/piezoelectric-nanogenerator/</link>
+      <atom:link href="/tag/piezoelectric-nanogenerator/index.xml" rel="self" type="application/rss+xml" />
+    <description>piezoelectric nanogenerator</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>piezoelectric nanogenerator</title>
+      <link>/tag/piezoelectric-nanogenerator/</link>
+    </image>
+    
+    <item>
+      <title>Sustainable and Biodegradable Wood Sponge Piezoelectric Nanogenerator for Sensing and Energy Harvesting Applications</title>
+      <link>/publication/wos-000595533800020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000595533800020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polymer nanogenerators: Opportunities and challenges for large-scale applications</title>
+      <link>/publication/wos-000428415800017/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000428415800017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurrent Harvesting of Ambient Energy by Hybrid Nanogenerators for Wearable Self-Powered Systems and Active Remote Sensing</title>
+      <link>/publication/wos-000431723400051/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000431723400051/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

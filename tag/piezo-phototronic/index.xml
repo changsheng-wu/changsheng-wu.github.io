@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>piezo-phototronic | Changsheng Wu Research Group</title>
+    <link>/tag/piezo-phototronic/</link>
+      <atom:link href="/tag/piezo-phototronic/index.xml" rel="self" type="application/rss+xml" />
+    <description>piezo-phototronic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>piezo-phototronic</title>
+      <link>/tag/piezo-phototronic/</link>
+    </image>
+    
+    <item>
+      <title>Ferroelectricity-Enhanced Piezo-Phototronic Effect in 2D V-Doped ZnO Nanosheets</title>
+      <link>/publication/wos-000482048100012/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000482048100012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced performances of Si/CdS heterojunction near-infrared photodetector by the piezo-phototronic effect</title>
+      <link>/publication/wos-000419833900036/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000419833900036/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Largely Improved Near-Infrared Silicon-Photosensing by the Piezo-Phototronic Effect</title>
+      <link>/publication/wos-000406649700060/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000406649700060/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneously Enhancing Light Emission and Suppressing Efficiency Droop in GaN Microwire-Based Ultraviolet Light-Emitting Diode by the Piezo-Phototronic Effect</title>
+      <link>/publication/wos-000403631600058/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000403631600058/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

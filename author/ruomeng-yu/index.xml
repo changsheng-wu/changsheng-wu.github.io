@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruomeng Yu | Changsheng Wu Research Group</title>
+    <link>/author/ruomeng-yu/</link>
+      <atom:link href="/author/ruomeng-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruomeng Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>Ruomeng Yu</title>
+      <link>/author/ruomeng-yu/</link>
+    </image>
+    
+    <item>
+      <title>Piezo-Phototronic Effect on Selective Electron or Hole Transport through Depletion Region of Vis-NIR Broadband Photodiode</title>
+      <link>/publication/wos-000406677900032/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000406677900032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Largely Improved Near-Infrared Silicon-Photosensing by the Piezo-Phototronic Effect</title>
+      <link>/publication/wos-000406649700060/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000406649700060/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneously Enhancing Light Emission and Suppressing Efficiency Droop in GaN Microwire-Based Ultraviolet Light-Emitting Diode by the Piezo-Phototronic Effect</title>
+      <link>/publication/wos-000403631600058/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000403631600058/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

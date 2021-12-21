@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John A Rogers | Changsheng Wu Research Group</title>
+    <link>/author/john-a-rogers/</link>
+      <atom:link href="/author/john-a-rogers/index.xml" rel="self" type="application/rss+xml" />
+    <description>John A Rogers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <title>John A Rogers</title>
+      <link>/author/john-a-rogers/</link>
+    </image>
+    
+    <item>
+      <title>Bitter Flavored, Soft Composites for Wearables Designed to Reduce Risks of Choking in Infants</title>
+      <link>/publication/wos-000682861600001/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000682861600001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intramuscular Near-Infrared Spectroscopy for Muscle Flap Monitoring in a Porcine Model</title>
+      <link>/publication/wos-000697821900001/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000697821900001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wireless Near-Infrared Spectroscopy Device for Flap Monitoring: Proof of Concept in a Porcine Musculocutaneous Flap Model</title>
+      <link>/publication/wos-000685474400002/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wos-000685474400002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
