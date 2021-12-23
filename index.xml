@@ -7,7 +7,7 @@
     <description>Changsheng Wu Research Group</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Changsheng Wu</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/logo_hue8a0cbcf0c0df4604b0c6b9b2c20d6fe_1347161_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo.svg</url>
       <title>Changsheng Wu Research Group</title>
       <link>/</link>
     </image>
@@ -493,6 +493,14 @@ Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae s
       <link>/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
       <description></description>
     </item>
     
