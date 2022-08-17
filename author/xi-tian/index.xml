@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xi Tian | Changsheng Wu Research Group</title>
+    <link>/author/xi-tian/</link>
+      <atom:link href="/author/xi-tian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xi Tian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Changsheng Wu</copyright>
+    <image>
+      <url>/author/xi-tian/avatar_hu2a35fc3ec96e4e997ee431cfaf21b3c4_99789_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Xi Tian</title>
+      <link>/author/xi-tian/</link>
+    </image>
+    
+  </channel>
+</rss>
