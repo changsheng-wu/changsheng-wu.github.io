@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chang Liu | Changsheng Wu Research Group</title>
+    <link>/author/chang-liu/</link>
+      <atom:link href="/author/chang-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chang Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Changsheng Wu</copyright>
+    <image>
+      <url>/author/chang-liu/avatar_hue72e015945a12c5417b401bc8659da18_110168_270x270_fill_lanczos_center_2.png</url>
+      <title>Chang Liu</title>
+      <link>/author/chang-liu/</link>
+    </image>
+    
+  </channel>
+</rss>
