@@ -1076,9 +1076,13 @@
   </url><url>
     <loc>/contact/</loc>
   </url><url>
+    <loc>/author/dan-meng/</loc>
+  </url><url>
     <loc>/author/guanglei-chu/</loc>
   </url><url>
     <loc>/author/hongze-zhang/</loc>
+  </url><url>
+    <loc>/author/jiajia-ma/</loc>
   </url><url>
     <loc>/author/jiaxun-sun/</loc>
   </url><url>
@@ -1088,6 +1092,8 @@
   </url><url>
     <loc>/people/</loc>
   </url><url>
+    <loc>/author/qi-su/</loc>
+  </url><url>
     <loc>/author/qishen-li/</loc>
   </url><url>
     <loc>/research/</loc>
@@ -1095,6 +1101,8 @@
     <loc>/author/shuoyan-liu/</loc>
   </url><url>
     <loc>/author/tienan-zhao/</loc>
+  </url><url>
+    <loc>/author/weifeng-zhang/</loc>
   </url><url>
     <loc>/author/xi-tian/</loc>
   </url><url>
